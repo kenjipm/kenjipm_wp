@@ -15,7 +15,7 @@
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
-			
+			Copyright 2020 by Kenji Prahyudi
 		</div>
 		<!-- .site-info -->
 	</footer><!-- #colophon -->
